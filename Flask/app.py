@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 12 16:24:52 2021
 
-@author: Kamal Singh
-"""
 from flask import Flask, request, render_template
 from flask_cors import cross_origin
 import sklearn
