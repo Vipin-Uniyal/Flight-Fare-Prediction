@@ -3,7 +3,7 @@
 
 
 <h1 align='center'>Model deploy using Flask on Heroku Platform</h1>
-<h2 align='center'>https://flight-fare-prediction-kamal.herokuapp.com/</h2>
+<h2 align='center'>https://flight-fare-prediction-vipin.herokuapp.com/</h2>
 <br>
 <p>In this project I built a model for predicting the fare of the flight ticket.</p>
 <br>
