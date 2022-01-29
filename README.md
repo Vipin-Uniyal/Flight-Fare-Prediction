@@ -10,8 +10,8 @@
 <h2>What it does : </h2>
 <p align='center'><img src='https://user-images.githubusercontent.com/31500911/143291485-1852da18-7ee4-4871-ba67-7940739819e3.PNG'></p>
 
-<h2>Live Demo</h2>
-<p align='center'><img src='https://user-images.githubusercontent.com/31500911/143289719-210e5c78-e634-49e8-aa6b-48acae6076b8.gif'></p>
+<!--<h2>Live Demo</h2>
+<p align='center'><img src=''></p> -->
 
 
 <h2>How it does : </h2>
