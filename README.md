@@ -15,7 +15,7 @@
 
 
 <h2>How it does : </h2>
-<p>Extract the dependent variables and the independent variables from the dataset. Split the skewed data into shuffled sets using stratified shuffle split in sklearn library. Used the Hyperparameter tuning to increase the accuracy of prediction.</p>
+<p>Extract the dependent variables and the independent variables from the dataset. Used Extra Tree Classifier to get the most important features.Used Random Forest for the predicton.</p>
 <br>
 <h2>Prerequisites :</h2>
 <ul>
